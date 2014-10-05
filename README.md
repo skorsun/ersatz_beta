@@ -1,4 +1,4 @@
 ersatz_beta
 ===========
 
-The neral network web service
+The neural network web service.
